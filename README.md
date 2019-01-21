@@ -1,7 +1,7 @@
 Estamos en el tutorial "React 16 - The Complete Guide"
 
-Completado: (33%) | ######-------------- |
-149(sin empezar)/420
+Completado: (40%) | ######-------------- |
+169(sin empezar)/420
 
 
 
