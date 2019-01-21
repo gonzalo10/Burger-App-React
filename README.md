@@ -1,3 +1,10 @@
+Estamos en el tutorial "React 16 - The Complete Guide"
+
+Completado: (33%) | ######-------------- |
+149(sin empezar)/420
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
